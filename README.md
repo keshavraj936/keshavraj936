@@ -1,7 +1,22 @@
-# 💫 About Me:
-👨‍💻 Currently Working On<br>Enhancing my skills in Java development and creating clean, responsive interfaces using HTML & CSS.<br><br>🤝 Open to Collaborations<br>Projects involving Java applications, frontend interfaces, and beginner-friendly open-source contributions.<br><br>🎯 Seeking Guidance In<br>Writing efficient Java code, improving code structure, and advancing my frontend design workflow.<br><br>🌱 Currently Learning<br>Core Java, HTML & CSS fundamentals, Git/GitHub, and modern development best practices.<br><br>💬 Ask Me About<br>ava fundamentals, clean web layouts, responsive design, and transitioning into tech as a beginner.<br><br>⚡ Fun Fact<br>I come from a biology background—now passionately building my path in the world of technology.
+About Me:
 
+Currently Working On
+Learning MERN web development, practicing Data Structures and Algorithms (DSA), and creating clean, responsive interfaces using HTML & CSS.
 
+Open to Collaborations
+Projects involving frontend interfaces, MERN stack development, DSA practice, and beginner-friendly open-source contributions.
+
+Seeking Guidance In
+Strengthening problem-solving with DSA, improving code structure, and advancing my frontend and full-stack development workflow.
+
+Currently Learning
+MERN web development, Data Structures and Algorithms (DSA), HTML & CSS fundamentals, Git/GitHub, and modern development best practices.
+
+Ask Me About
+MERN basics, DSA concepts, clean web layouts, responsive design, and transitioning into tech as a beginner.
+
+Fun Fact
+I come from a biology background and am now building my path in the world of technology.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.keshav.raj._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-raj-shah-8879b7355) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavraj936@gmail.com) 
 
